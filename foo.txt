@@ -1,0 +1,8 @@
+Python IO application
+
+Thank you for signing up. Please validate your email address to start your trial. 
+
+Here are some resources to help you deploy your first workspace. 
+
+    Review the administration guide on the requirements to set up your Databricks service.
+ 
